@@ -1,0 +1,32 @@
+2020-06-22 20:35:11 || [main] com.jk.service.impl.ContactServiceImpl || setContactDao : Dependency injection  is done. : 
+2020-06-22 20:35:11 || [main] com.jk.service.impl.ContactServiceImpl || getNameById : getNameById method execution is started : 
+2020-06-22 20:35:11 || [main] com.jk.service.impl.ContactServiceImpl || getNameById : getNameById method execution is ended : 
+2020-06-22 20:35:11 || [main] com.jk.service.impl.ContactServiceImpl || getAllContactNames : getAllContactNames method execution is started : 
+2020-06-22 20:35:11 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : getContactInfoById method execution is started : 
+2020-06-22 20:35:11 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : getContactInfoById method execution is ended : 
+2020-06-22 20:35:11 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : getContactInfoById method execution is started : 
+2020-06-22 20:35:11 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : exception rised : 
+2020-06-23 16:26:32 || [main] com.jk.service.impl.ContactServiceImpl || setContactDao : Dependency injection  is done. : 
+2020-06-23 16:26:32 || [main] com.jk.service.impl.ContactServiceImpl || getNameById : getNameById method execution is started : 
+2020-06-23 16:26:32 || [main] com.jk.service.impl.ContactServiceImpl || getNameById : getNameById method execution is ended : 
+2020-06-23 16:26:32 || [main] com.jk.service.impl.ContactServiceImpl || getAllContactNames : getAllContactNames method execution is started : 
+2020-06-23 16:26:32 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : getContactInfoById method execution is started : 
+2020-06-23 16:26:32 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : getContactInfoById method execution is ended : 
+2020-06-23 16:26:32 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : getContactInfoById method execution is started : 
+2020-06-23 16:26:32 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : exception rised : 
+2020-06-23 16:34:42 || [main] com.jk.service.impl.ContactServiceImpl || setContactDao : Dependency injection  is done. : 
+2020-06-23 16:34:42 || [main] com.jk.service.impl.ContactServiceImpl || getNameById : getNameById method execution is started : 
+2020-06-23 16:34:42 || [main] com.jk.service.impl.ContactServiceImpl || getNameById : getNameById method execution is ended : 
+2020-06-23 16:34:42 || [main] com.jk.service.impl.ContactServiceImpl || getAllContactNames : getAllContactNames method execution is started : 
+2020-06-23 16:34:42 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : getContactInfoById method execution is started : 
+2020-06-23 16:34:42 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : getContactInfoById method execution is ended : 
+2020-06-23 16:34:42 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : getContactInfoById method execution is started : 
+2020-06-23 16:34:42 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : exception rised : 
+2020-06-23 16:37:27 || [main] com.jk.service.impl.ContactServiceImpl || setContactDao : Dependency injection  is done. : 
+2020-06-23 16:37:27 || [main] com.jk.service.impl.ContactServiceImpl || getNameById : getNameById method execution is started : 
+2020-06-23 16:37:27 || [main] com.jk.service.impl.ContactServiceImpl || getNameById : getNameById method execution is ended : 
+2020-06-23 16:37:27 || [main] com.jk.service.impl.ContactServiceImpl || getAllContactNames : getAllContactNames method execution is started : 
+2020-06-23 16:37:27 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : getContactInfoById method execution is started : 
+2020-06-23 16:37:27 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : getContactInfoById method execution is ended : 
+2020-06-23 16:37:27 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : getContactInfoById method execution is started : 
+2020-06-23 16:37:27 || [main] com.jk.service.impl.ContactServiceImpl || getContactInfoById : exception rised : 
